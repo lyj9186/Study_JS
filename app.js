@@ -1,14 +1,4 @@
-function sayHello(){
-    console.log("hello");
-}
+// calculator 만들기 복습
+// +, -, /, *
+//  add, minus, div, multi 
 
-Array 
-const name = {
-    a: "Lee",
-    b: "jang",
-    c: "yoon",
-    d: "yoo",
-}
-
-
-console.log()
