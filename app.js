@@ -1,6 +1,3 @@
-const tilte = document.getElementById("title");
+const title = document.querySelector(".hello h1");
 
-tilte.innerText = "got you!"
-
-console.log(title.id);
-console.log(title.className);
+title.innerText = "Hello";
